@@ -1,0 +1,6 @@
+interface:
+  display_name: "Paper2Visio文生图"
+  short_description: "严格按文章提炼、完整提示词、生图及原生重建流程，交付可编辑 Visio 学术总图"
+  default_prompt: "使用 $paper2visio 阅读我提供的文章，严格按完整话术生成参考图，再重建并核验可编辑 Visio，优化箭头后直接交付。"
+policy:
+  allow_implicit_invocation: true
